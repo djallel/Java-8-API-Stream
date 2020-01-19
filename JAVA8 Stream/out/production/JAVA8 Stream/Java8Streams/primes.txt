@@ -13,7 +13,7 @@ public class Primes {
         }
     }
 }
-//--------------------------------------------
+--------------------------------------------
 // version 2: break
 public class Primes {
 
@@ -31,7 +31,7 @@ public class Primes {
         }
     }
 }
-//--------------------------------------------
+--------------------------------------------
 // version 3: break, add to list
 import java.util.ArrayList;
 
@@ -54,7 +54,7 @@ public class Primes {
         System.out.println(primeList);
     }
 }
-//--------------------------------------------
+--------------------------------------------
 // version 4: break, add to list, square root
 import java.util.ArrayList;
 

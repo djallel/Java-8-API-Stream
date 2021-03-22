@@ -2,7 +2,7 @@ package Java8Streams;
 import java.math.*;
 import java.util.ArrayList;
 
-public class CodinGameClosestToZero {
+public class ClosestToZero {
 
     public static void main(String[] args) {
         double[] nums= new double[100];;
